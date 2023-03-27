@@ -1,2 +1,4 @@
 # UTNCURSO
 CURSO BIOINFORMATICA
+## CONTENIDOS
+- Control de la version
